@@ -1,0 +1,11 @@
+{
+    "name": "Sam",
+    "job":  "WebDev",
+    "favouriteNumber": 69,
+    "isProgrammer": true,
+    "hobbies": ["Tennis, Walking"],
+    "friends": [{
+        "name": "Joey",
+        "job": "Village Idiot"
+    }] 
+}
